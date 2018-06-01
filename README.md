@@ -1,4 +1,3 @@
-<h3>cambios en github</h3>
 
 # Objetivos de la repositorio
 
